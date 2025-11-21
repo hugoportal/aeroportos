@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consulta de Frequencia de Aeroportos - Aviação</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Consulta Frequencias de Aeroportos ✈️</h1>
+
+      <div class="search-controls">
+        <div class="radio-group">
+          <label
+            ><input type="radio" name="searchBy" value="cidade" checked />
+            Cidade</label
+          >
+          <label
+            ><input type="radio" name="searchBy" value="uf" /> UF
+            (Estado)</label
+          >
+          <label
+            ><input type="radio" name="searchBy" value="icao" /> Código
+            ICAO</label
+          >
+        </div>
+
+        <div class="search-input">
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Digite a informação para busca (ex: RIO, SP, SBGL)"
+          />
+          <button id="searchButton" onclick="searchAirports()">Buscar</button>
+        </div>
+      </div>
+
+      <div id="resultsContainer">
+        <p>Utilize a busca acima para encontrar informações de aeroportos.</p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

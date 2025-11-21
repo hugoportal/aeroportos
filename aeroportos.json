@@ -1,0 +1,708 @@
+{
+  "aeroportos_completos": [
+    {
+      "cidade": "RIO BRANCO",
+      "uf": "AC",
+      "icao": "SBRB",
+      "iata": null,
+      "nome_aeroporto": "Plácido de Castro",
+      "coordenadas": "09 52 06S/067 53 53W",
+      "frequencias": {
+        "torre": ["118.700", "121.500"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "CRUZEIRO DO SUL",
+      "uf": "AC",
+      "icao": "SBCZ",
+      "iata": null,
+      "nome_aeroporto": "CRUZEIRO DO SUL",
+      "coordenadas": "07 35 58S/072 46 10W",
+      "frequencias": {
+        "torre": [],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["125.700"] 
+      }
+    },
+    {
+      "cidade": "MACEIÓ",
+      "uf": "AL",
+      "icao": "SBMO",
+      "iata": null,
+      "nome_aeroporto": "Zumbi dos Palmares",
+      "coordenadas": "09 30 39S/035 47 30W",
+      "frequencias": {
+        "torre": ["118.000", "118.250"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "OIAPOQUE",
+      "uf": "AP",
+      "icao": "SBOI",
+      "iata": null,
+      "nome_aeroporto": "OIAPOQUE",
+      "coordenadas": "03 51 15N/051 47 50W",
+      "frequencias": {
+        "torre": [],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["125.900"] 
+      }
+    },
+    {
+      "cidade": "MACAPÁ",
+      "uf": "AP",
+      "icao": "SISM",
+      "iata": null,
+      "nome_aeroporto": "Sérgio Miranda",
+      "coordenadas": "00 02 25N/051 08 58W",
+      "frequencias": {
+        "torre": [],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "MACAPÁ",
+      "uf": "AP",
+      "icao": "SBMQ",
+      "iata": null,
+      "nome_aeroporto": "Alberto Alcolumbre",
+      "coordenadas": "00 03 02N/051 04 20W",
+      "frequencias": {
+        "torre": ["118.000"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["119.00"] 
+      }
+    },
+    {
+      "cidade": "MANAUS",
+      "uf": "AM",
+      "icao": "SBEG",
+      "iata": null,
+      "nome_aeroporto": "Eduardo Gomes",
+      "coordenadas": "03 02 28S/060 03 02W",
+      "frequencias": {
+        "torre": ["118.300"],
+        "solo": ["121.900"],
+        "operacoes": ["122.500"],
+        "trafego": [],
+        "atis": ["127.650"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "MANAUS",
+      "uf": "AM",
+      "icao": "SBMN",
+      "iata": null,
+      "nome_aeroporto": "Campo Ponta Pelada",
+      "coordenadas": "03 08 45S/059 59 06W",
+      "frequencias": {
+        "torre": ["118.600"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "SALVADOR",
+      "uf": "BA",
+      "icao": "SBSV",
+      "iata": null,
+      "nome_aeroporto": "Deputado Luís Eduardo Magalhães",
+      "coordenadas": "12 54 31S/038 19 21W",
+      "frequencias": {
+        "torre": ["118.600", "118.950", "121.100", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": ["122.500"],
+        "trafego": ["121.100"],
+        "atis": ["127.775"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "FORTALEZA",
+      "uf": "CE",
+      "icao": "SBFZ",
+      "iata": null,
+      "nome_aeroporto": "Pinto Martins",
+      "coordenadas": "03 46 33S/038 31 56W",
+      "frequencias": {
+        "torre": ["121.500", "129.000"],
+        "solo": ["121.950"],
+        "operacoes": ["122.500"],
+        "trafego": [],
+        "atis": ["127.700"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "ARACATI",
+      "uf": "CE",
+      "icao": "SBAC",
+      "iata": null,
+      "nome_aeroporto": "Aeroporto Regional de Canoa Quebrada Dragão do Mar",
+      "coordenadas": "04 34 07S/037 48 17W",
+      "frequencias": {
+        "torre": [],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["131.250"] 
+      }
+    },
+    {
+      "cidade": "JUAZEIRO DO NORTE",
+      "uf": "CE",
+      "icao": "SBJU",
+      "iata": null,
+      "nome_aeroporto": "Orlando Bezerra de Menezes",
+      "coordenadas": "07 13 09S/039 16 10W",
+      "frequencias": {
+        "torre": [],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["131.750"] 
+      }
+    },
+    {
+      "cidade": "BRASÍLIA",
+      "uf": "DF",
+      "icao": "SBBR",
+      "iata": null,
+      "nome_aeroporto": "Presidente Juscelino Kubitschek",
+      "coordenadas": "15 52 16S/047 55 07W",
+      "frequencias": {
+        "torre": ["118.100", "118.450", "118.750", "121.500"],
+        "solo": ["121.800", "121.950"],
+        "operacoes": ["122.500", "135.85"],
+        "trafego": ["121.000"],
+        "atis": ["127.800"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "VITÓRIA",
+      "uf": "ES",
+      "icao": "SBVT",
+      "iata": null,
+      "nome_aeroporto": "Eurico de Aguiar Salles",
+      "coordenadas": "20 15 29S/040 17 11W",
+      "frequencias": {
+        "torre": ["118.100", "121.500"],
+        "solo": ["121.950"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["127.575"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "GOIÂNIA",
+      "uf": "GO",
+      "icao": "SBGO",
+      "iata": null,
+      "nome_aeroporto": "SANTA GENOVEVA",
+      "coordenadas": "16 37 57S/049 13 16W",
+      "frequencias": {
+        "torre": ["118.700", "121.500"],
+        "solo": ["121.700"],
+        "operacoes": [],
+        "trafego": ["121.050"],
+        "atis": ["127.675"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "ANÁPOLIS",
+      "uf": "GO",
+      "icao": "SBAN",
+      "iata": null,
+      "nome_aeroporto": "Campo Marechal Márcio de Souza e Mello",
+      "coordenadas": "16 14 19S/048 58 20W",
+      "frequencias": {
+        "torre": ["118.300", "121.250", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "SÃO LUÍS",
+      "uf": "MA",
+      "icao": "SBSL",
+      "iata": null,
+      "nome_aeroporto": "Marechal Cunha Machado",
+      "coordenadas": "02 35 13S/044 14 10W",
+      "frequencias": {
+        "torre": ["118.900"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "IMPERATRIZ",
+      "uf": "MA",
+      "icao": "SBIZ",
+      "iata": null,
+      "nome_aeroporto": "PREFEITO RENATO MOREIRA",
+      "coordenadas": "05 31 50S/047 27 30W",
+      "frequencias": {
+        "torre": [],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["125.650"] 
+      }
+    },
+    {
+      "cidade": "CUIABÁ",
+      "uf": "MT",
+      "icao": "SBCY",
+      "iata": null,
+      "nome_aeroporto": "Marechal Rondon",
+      "coordenadas": "15 39 00S/056 07 03W",
+      "frequencias": {
+        "torre": ["118.100", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["127.850"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "CAMPO GRANDE",
+      "uf": "MS",
+      "icao": "SBCG",
+      "iata": null,
+      "nome_aeroporto": "Campo Grande",
+      "coordenadas": "20 28 10S/054 40 13W",
+      "frequencias": {
+        "torre": ["118.100", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["127.600"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "BELO HORIZONTE",
+      "uf": "MG",
+      "icao": "SBCF",
+      "iata": null,
+      "nome_aeroporto": "Tancredo Neves (Confins)",
+      "coordenadas": "19 37 28S/043 58 19W",
+      "frequencias": {
+        "torre": ["118.200", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": ["121.000"],
+        "atis": ["127.850"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "BELO HORIZONTE",
+      "uf": "MG",
+      "icao": "SBBH",
+      "iata": null,
+      "nome_aeroporto": "Pampulha - Carlos Drummond de Andrade",
+      "coordenadas": "19 51 07S/043 57 02W",
+      "frequencias": {
+        "torre": ["118.000"],
+        "solo": ["121.600"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["127.450"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "BELÉM",
+      "uf": "PA",
+      "icao": "SBBE",
+      "iata": null,
+      "nome_aeroporto": "Val de Cans - Júlio Cezar Ribeiro",
+      "coordenadas": "01 23 05S/048 28 44W",
+      "frequencias": {
+        "torre": ["118.700", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["127.600"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "JOÃO PESSOA",
+      "uf": "PB",
+      "icao": "SBJP",
+      "iata": null,
+      "nome_aeroporto": "PRESIDENTE CASTRO PINTO",
+      "coordenadas": "07 08 54S/034 57 01W",
+      "frequencias": {
+        "torre": ["118.300"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "CURITIBA",
+      "uf": "PR",
+      "icao": "SBCT",
+      "iata": null,
+      "nome_aeroporto": "Afonso Pena",
+      "coordenadas": "25 31 54S/049 10 34W",
+      "frequencias": {
+        "torre": ["118.150", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": ["119.300"],
+        "atis": ["127.800"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "CURITIBA",
+      "uf": "PR",
+      "icao": "SBBI",
+      "iata": null,
+      "nome_aeroporto": "Bacacheri",
+      "coordenadas": "25 24 12S/049 14 01W",
+      "frequencias": {
+        "torre": ["118.900"],
+        "solo": ["121.800"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["132.325"],
+        "radio": ["118.90", "119.95"]
+      }
+    },
+    {
+      "cidade": "RECIFE",
+      "uf": "PE",
+      "icao": "SBRF",
+      "iata": null,
+      "nome_aeroporto": "Guararapes - Gilberto Freyre",
+      "coordenadas": "08 07 35S/034 55 22W",
+      "frequencias": {
+        "torre": ["118.350", "121.500", "122.800", "125.25"],
+        "solo": ["121.850"],
+        "operacoes": ["122.500"],
+        "trafego": ["118.90"],
+        "atis": ["127.650"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "FERNANDO DE NORONHA",
+      "uf": "PE",
+      "icao": "SBFN",
+      "iata": null,
+      "nome_aeroporto": "FERNANDO DE NORONHA",
+      "coordenadas": "03 51 17S/032 25 42W",
+      "frequencias": {
+        "torre": [],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["125.900"] 
+      }
+    },
+    {
+      "cidade": "TERESINA",
+      "uf": "PI",
+      "icao": "SBTE",
+      "iata": null,
+      "nome_aeroporto": "SENADOR PETRONIO PORTELLA",
+      "coordenadas": "05 03 38S/042 49 28W",
+      "frequencias": {
+        "torre": ["118.800"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["127.800"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "icao": "SBRJ",
+      "iata": null,
+      "nome_aeroporto": "Santos Dumont",
+      "coordenadas": "22 54 36S/043 09 45W",
+      "frequencias": {
+        "torre": ["118.700", "121.500"],
+        "solo": ["121.700"],
+        "operacoes": [],
+        "trafego": ["121.050"],
+        "atis": ["132.650"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "icao": "SBJR",
+      "iata": null,
+      "nome_aeroporto": "JACAREPAGUA-ROBERTO MARINHO",
+      "coordenadas": "22 59 15S/043 22 12W",
+      "frequencias": {
+        "torre": ["118.400"],
+        "solo": ["121.600"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "icao": "SBGL",
+      "iata": null,
+      "nome_aeroporto": "Galeão - Antônio Carlos Jobim",
+      "coordenadas": "22 48 36S/043 15 02W",
+      "frequencias": {
+        "torre": ["118.000", "118.200", "121.500", "121.000", "121.650"],
+        "solo": ["121.650", "128.350"],
+        "operacoes": [],
+        "trafego": ["121.000", "135.100"],
+        "atis": ["127.600"],
+        "radio": ["121.950", "130.675", "131.050"]
+      }
+    },
+    {
+      "cidade": "NATAL",
+      "uf": "RN",
+      "icao": "SBSG",
+      "iata": null,
+      "nome_aeroporto": "São Gonçalo do Amarante - Governador Aluizio Alves",
+      "coordenadas": "05 46 08S/035 21 59W",
+      "frequencias": {
+        "torre": ["118.200", "118.850"],
+        "solo": ["121.700"],
+        "operacoes": [],
+        "trafego": ["121.000"],
+        "atis": ["127.600"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "NATAL",
+      "uf": "RN",
+      "icao": "SBNT",
+      "iata": null,
+      "nome_aeroporto": "CAMPO AUGUSTO SEVERO",
+      "coordenadas": "05 54 30S/035 14 57W",
+      "frequencias": {
+        "torre": ["118.700", "122.800"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["132.650"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "PORTO ALEGRE",
+      "uf": "RS",
+      "icao": "SBPA",
+      "iata": null,
+      "nome_aeroporto": "Salgado Filho",
+      "coordenadas": "29 59 41S/051 10 16W",
+      "frequencias": {
+        "torre": ["118.100", "121.500"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": ["122.150"],
+        "atis": ["132.35"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "PORTO VELHO",
+      "uf": "RO",
+      "icao": "SBPV",
+      "iata": null,
+      "nome_aeroporto": "Governador Jorge Teixeira de Oliveira",
+      "coordenadas": "08 42 49S/063 54 10W",
+      "frequencias": {
+        "torre": ["118.200", "121.500", "118.550"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": ["127.450"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "BOA VISTA",
+      "uf": "RR",
+      "icao": "SBBV",
+      "iata": null,
+      "nome_aeroporto": "Atlas Brasil Cantanhede",
+      "coordenadas": "02 50 29N/060 41 32W",
+      "frequencias": {
+        "torre": ["118.100", "121.500"],
+        "solo": [],
+        "operacoes": ["122.500"],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "FLORIANÓPOLIS",
+      "uf": "SC",
+      "icao": "SBFL",
+      "iata": null,
+      "nome_aeroporto": "Hercílio Luz",
+      "coordenadas": "27 40 13S/048 33 09W",
+      "frequencias": {
+        "torre": ["118.700", "121.500", "122.800"],
+        "solo": ["121.700"],
+        "operacoes": ["122.500"],
+        "trafego": [],
+        "atis": ["127.450"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "SÃO PAULO",
+      "uf": "SP",
+      "icao": "SBSP",
+      "iata": null,
+      "nome_aeroporto": "Congonhas - Deputado Freitas Nobre",
+      "coordenadas": "23 37 34S/046 39 23W",
+      "frequencias": {
+        "torre": ["118.050", "127.150"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": ["120.600"],
+        "atis": ["127.650"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "SÃO PAULO",
+      "uf": "SP",
+      "icao": "SBMT",
+      "iata": null,
+      "nome_aeroporto": "CAMPO DE MARTE",
+      "coordenadas": "23 30 33S/046 38 15W",
+      "frequencias": {
+        "torre": ["133.350"],
+        "solo": ["121.600"],
+        "operacoes": [],
+        "trafego": ["118.700"],
+        "atis": ["127.725"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "CAMPINAS",
+      "uf": "SP",
+      "icao": "SBKP",
+      "iata": null,
+      "nome_aeroporto": "Viracopos",
+      "coordenadas": "23 00 25S/047 08 04W",
+      "frequencias": {
+        "torre": ["118.250"],
+        "solo": ["121.900"],
+        "operacoes": [],
+        "trafego": ["121.10"],
+        "atis": ["127.825"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "SÃO PAULO",
+      "uf": "SP",
+      "icao": "SBGR",
+      "iata": null,
+      "nome_aeroporto": "Guarulhos - Governador André Franco Montoro",
+      "coordenadas": "23 26 08S/046 28 23W",
+      "frequencias": {
+        "torre": ["118.400", "121.500", "132.750", "135.200"],
+        "solo": ["121.700", "126.900"],
+        "operacoes": ["122.500"],
+        "trafego": ["121.000"],
+        "atis": ["127.750"],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "ARACAJU",
+      "uf": "SE",
+      "icao": "SBAR",
+      "iata": null,
+      "nome_aeroporto": "Santa Maria",
+      "coordenadas": "10 59 07S/037 04 24W",
+      "frequencias": {
+        "torre": ["118.800", "118.100"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": []
+      }
+    },
+    {
+      "cidade": "PALMAS",
+      "uf": "TO",
+      "icao": "SBPJ",
+      "iata": null,
+      "nome_aeroporto": "Brigadeiro Lysias Rodrigues",
+      "coordenadas": "10 17 24S/048 21 28W",
+      "frequencias": {
+        "torre": ["118.000", "121.500"],
+        "solo": [],
+        "operacoes": [],
+        "trafego": [],
+        "atis": [],
+        "radio": ["119.00"]
+      }
+    }
+  ]
+}
